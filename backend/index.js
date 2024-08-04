@@ -1,7 +1,7 @@
 require("express-async-errors");
 const express = require("express");
 const cors = require("cors");
-const DBconnection = require("./config/db");
+// const DBconnection = require("./config/db");
 const userRoutes = require("./routes/userRoute");
 const songRoutes = require("./routes/songRoute");
 const playlistRoutes = require("./routes/playlist.route");

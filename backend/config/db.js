@@ -1,6 +1,6 @@
-const mongoose = require("mongoose")
-require("dotenv").config()
+// const mongoose = require("mongoose")
+// require("dotenv").config()
 
-const DBconnection = mongoose.connect(process.env.MongoConnection)
+// const DBconnection = mongoose.connect(process.env.MongoConnection)
 
-module.exports = DBconnection
+// module.exports = DBconnection
