@@ -27,7 +27,7 @@ app.get("/", async (req, res) => {
 });
 
 app.listen(8080, async () => {
-  await DBconnection;
+  // await DBconnection;
   console.log("DB connected");
   console.log("Server is running on port 8080");
 });
