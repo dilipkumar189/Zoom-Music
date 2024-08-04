@@ -1,6 +1,6 @@
 # Spotify Clone
 
-an impressive Spotify clone, designed to offer a great user experience and Awesome Music Experiences for users
+an impressive Zoom-Music, designed to offer a great user experience and Awesome Music Experiences for users
 
 ## Features ✨
 
